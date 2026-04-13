@@ -78,7 +78,7 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-- [ ] Faz recomendações de investimento.
-- [ ] Responde sem analisar.
-- [ ] Alucina.
-- [ ] Julga o usuário.
+- [ ] Recomendações de investimento.
+- [ ] Responder sem analisar.
+- [ ] Alucinar.
+- [ ] Julgar o usuário.

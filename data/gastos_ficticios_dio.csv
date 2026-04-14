@@ -1,0 +1,78 @@
+mes,categoria,descricao,valor
+2025-10,Aluguel,Aluguel apartamento,1800
+2025-10,Transporte,Parcela financiamento carro,950
+2025-10,Transporte,Combustivel,600
+2025-10,Contas,Luz,220
+2025-10,Contas,Agua,90
+2025-10,Contas,Internet,120
+2025-10,Contas,Celular,80
+2025-10,Alimentacao,Supermercado,900
+2025-10,Alimentacao,Restaurantes,350
+2025-10,Saude,Plano de saude,450
+2025-10,Lazer,Streaming e lazer,120
+2025-10,Diversos,Compras gerais,300
+
+2025-11,Aluguel,Aluguel apartamento,1800
+2025-11,Transporte,Parcela financiamento carro,950
+2025-11,Transporte,Combustivel,580
+2025-11,Contas,Luz,210
+2025-11,Contas,Agua,85
+2025-11,Contas,Internet,120
+2025-11,Contas,Celular,80
+2025-11,Alimentacao,Supermercado,920
+2025-11,Alimentacao,Restaurantes,400
+2025-11,Saude,Plano de saude,450
+2025-11,Lazer,Streaming e lazer,120
+2025-11,Diversos,Compras gerais,250
+
+2025-12,Aluguel,Aluguel apartamento,1800
+2025-12,Transporte,Parcela financiamento carro,950
+2025-12,Transporte,Combustivel,650
+2025-12,Contas,Luz,260
+2025-12,Contas,Agua,95
+2025-12,Contas,Internet,120
+2025-12,Contas,Celular,80
+2025-12,Alimentacao,Supermercado,1100
+2025-12,Alimentacao,Restaurantes,500
+2025-12,Saude,Plano de saude,450
+2025-12,Lazer,Streaming e lazer,200
+2025-12,Diversos,Compras de fim de ano,600
+
+2026-01,Aluguel,Aluguel apartamento,1850
+2026-01,Transporte,Parcela financiamento carro,950
+2026-01,Transporte,Combustivel,620
+2026-01,Contas,Luz,300
+2026-01,Contas,Agua,100
+2026-01,Contas,Internet,120
+2026-01,Contas,Celular,80
+2026-01,Alimentacao,Supermercado,950
+2026-01,Alimentacao,Restaurantes,300
+2026-01,Saude,Plano de saude,470
+2026-01,Lazer,Streaming e lazer,120
+2026-01,Diversos,Compras gerais,200
+
+2026-02,Aluguel,Aluguel apartamento,1850
+2026-02,Transporte,Parcela financiamento carro,950
+2026-02,Transporte,Combustivel,580
+2026-02,Contas,Luz,240
+2026-02,Contas,Agua,90
+2026-02,Contas,Internet,120
+2026-02,Contas,Celular,80
+2026-02,Alimentacao,Supermercado,920
+2026-02,Alimentacao,Restaurantes,320
+2026-02,Saude,Plano de saude,470
+2026-02,Lazer,Streaming e lazer,120
+2026-02,Diversos,Compras gerais,280
+
+2026-03,Aluguel,Aluguel apartamento,1850
+2026-03,Transporte,Parcela financiamento carro,950
+2026-03,Transporte,Combustivel,610
+2026-03,Contas,Luz,230
+2026-03,Contas,Agua,85
+2026-03,Contas,Internet,120
+2026-03,Contas,Celular,80
+2026-03,Alimentacao,Supermercado,940
+2026-03,Alimentacao,Restaurantes,350
+2026-03,Saude,Plano de saude,470
+2026-03,Lazer,Streaming e lazer,120
+2026-03,Diversos,Compras gerais,260

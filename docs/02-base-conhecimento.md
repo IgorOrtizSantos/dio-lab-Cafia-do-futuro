@@ -9,7 +9,6 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 | `historico_atendimento.csv` | CSV | Contextualizar interações anteriores |
 | `perfil_investidor.json` | JSON | Personalizar recomendações |
 | `produtos_financeiros.json` | JSON | Sugerir produtos adequados ao perfil |
-| `transacoes.csv` | CSV | Analisar padrão de gastos do cliente |
 | `gastos_ficticios_dio.csv` | CSV | Analisar renda e gastos contextualizados do cliente |
 
 > [!TIP]

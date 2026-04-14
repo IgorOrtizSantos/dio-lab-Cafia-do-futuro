@@ -1,4 +1,5 @@
 mes,categoria,descricao,valor
+2025-10,renda,salario,6500
 2025-10,Aluguel,Aluguel apartamento,1800
 2025-10,Transporte,Parcela financiamento carro,950
 2025-10,Transporte,Combustivel,600
@@ -12,6 +13,7 @@ mes,categoria,descricao,valor
 2025-10,Lazer,Streaming e lazer,120
 2025-10,Diversos,Compras gerais,300
 
+2025-11,renda,salario,6500
 2025-11,Aluguel,Aluguel apartamento,1800
 2025-11,Transporte,Parcela financiamento carro,950
 2025-11,Transporte,Combustivel,580
@@ -25,6 +27,7 @@ mes,categoria,descricao,valor
 2025-11,Lazer,Streaming e lazer,120
 2025-11,Diversos,Compras gerais,250
 
+2025-12,renda,salario,6500
 2025-12,Aluguel,Aluguel apartamento,1800
 2025-12,Transporte,Parcela financiamento carro,950
 2025-12,Transporte,Combustivel,650
@@ -38,6 +41,7 @@ mes,categoria,descricao,valor
 2025-12,Lazer,Streaming e lazer,200
 2025-12,Diversos,Compras de fim de ano,600
 
+2025-01,renda,salario,6500
 2026-01,Aluguel,Aluguel apartamento,1850
 2026-01,Transporte,Parcela financiamento carro,950
 2026-01,Transporte,Combustivel,620
@@ -51,6 +55,7 @@ mes,categoria,descricao,valor
 2026-01,Lazer,Streaming e lazer,120
 2026-01,Diversos,Compras gerais,200
 
+2025-02,renda,salario,6500
 2026-02,Aluguel,Aluguel apartamento,1850
 2026-02,Transporte,Parcela financiamento carro,950
 2026-02,Transporte,Combustivel,580
@@ -64,6 +69,7 @@ mes,categoria,descricao,valor
 2026-02,Lazer,Streaming e lazer,120
 2026-02,Diversos,Compras gerais,280
 
+2025-03,renda,salario,6500
 2026-03,Aluguel,Aluguel apartamento,1850
 2026-03,Transporte,Parcela financiamento carro,950
 2026-03,Transporte,Combustivel,610
